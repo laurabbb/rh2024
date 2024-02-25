@@ -2,6 +2,7 @@
 
 #to use the method in the other file, I should be able to say
 #from file_name import function_name
+!pip install datasets
 
 import streamlit as st
 from datasets import load_dataset
