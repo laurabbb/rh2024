@@ -1,4 +1,4 @@
 streamlit
 pandas
 numpy
-datasets
+datasets==1.17.0
